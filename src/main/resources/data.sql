@@ -1,0 +1,1 @@
+INSERT INTO EMPLOYEES (first_name, last_name) VALUES ('Łukasz','Hacaś');
